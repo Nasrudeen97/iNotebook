@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.631d845c.css","mappings":"AAAA,MACI,cAAe,CACf,gBACJ,CAEA,MACI,UAAY,CACZ,oBACJ","sources":["App.css"],"sourcesContent":[".text{\r\n    font-size: 30px;\r\n    margin-top: 100px;\r\n}\r\n\r\n.user{\r\n    color: white;\r\n    text-decoration: none;\r\n}"],"names":[],"sourceRoot":""}
